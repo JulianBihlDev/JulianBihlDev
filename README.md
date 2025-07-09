@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi im Julian👋
 
+I'm an aspiring software developer with a degree in Applied Computer Science.
 <!--
 **JulianBihlDev/JulianBihlDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
